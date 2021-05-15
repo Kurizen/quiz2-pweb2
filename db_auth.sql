@@ -21,6 +21,7 @@ CREATE TABLE `members` (
 
 INSERT INTO `members` (`member_id`, `member_name`, `member_password`, `member_email`) VALUES
 (1, 'admin', '$2a$10$0FHEQ5/cplO3eEKillHvh.y009Wsf4WCKvQHsZntLamTUToIBe.fG', 'user@gmail.com');
+(2, 'dapur', '$2y$10$Gx6GMgKAR28X8SbwZoDAre7AWZNzJi6EqDxJVmLpvQUweo6e3QaNG', 'dapur123@gmail.com');
 
 -- --------------------------------------------------------
 
